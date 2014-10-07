@@ -1,8 +1,6 @@
 analytics-challenge-merck
 =========================
-
-##Temple Analytics Challenge 2014
-
+Temple University Analytics Challenge 2014
 
 ###Front End
 - Map View
