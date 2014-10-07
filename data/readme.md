@@ -8,4 +8,7 @@
   * The division of the company which the employee works (Anonymized)
 
 ###us_zip_codes.csv
-(Fields relatively self-explanitory)
+
+* Self explanitory
+  * `zip_code, latitude, longitude, city, state, county`
+
