@@ -6,3 +6,6 @@
   * The zip code where the employee lives
 * `organization`: 
   * The division of the company which the employee works (Anonymized)
+
+###us_zip_codes.csv
+(Fields relatively self-explanitory)
