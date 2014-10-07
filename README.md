@@ -1,15 +1,15 @@
 analytics-challenge-merck
 =========================
 
-Temple Analytics Challenge 2014
+##Temple Analytics Challenge 2014
 
 
-Front End
+###Front End
 - Map View
 - Research D3
 - Overlay API
 
-Back End
+###Back End
 - Google API
 - Distances (N^2)
 - Traffic Patterns
