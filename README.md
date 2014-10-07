@@ -5,13 +5,13 @@ Temple Analytics Challenge 2014
 
 
 Front End
-•	Map View
-•	Research D3
-•	Overlay API
+- Map View
+- Research D3
+- Overlay API
 
 Back End
-•	Google API
-o	Distances (N^2)
-o	Traffic Patterns
-o	Public Transportation
-•	Parse Data to Database
+- Google API
+- Distances (N^2)
+- Traffic Patterns
+- Public Transportation
+- Parse Data to Database
